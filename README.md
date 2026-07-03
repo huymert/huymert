@@ -35,12 +35,12 @@ Driven by analytical thinking and a strong technical foundation, I am pursuing a
 
 ---
 
-### 📈 GitHub Stats & Activities
+### 📊 GitHub Stats
 
 <p align="left">
-  <!-- Thống kê chuỗi đóng góp (Cực kỳ ổn định trên Heroku) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huymert&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <!-- Thẻ Stats bên trái -->
+  <img src="https://github-stats-extended.vercel.app/api?username=huymert&show_icons=true&theme=tokyonight" alt="Huy's GitHub Stats" height="195" />
   
-  <!-- Thống kê ngôn ngữ dùng server mirror phụ ít bị lỗi -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=huymert&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
+  <!-- Thẻ Ngôn ngữ bên phải (Căn chỉnh cùng chiều cao 195px để song song hoàn hảo) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=huymert&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195" />
 </p>
