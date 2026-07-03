@@ -4,37 +4,40 @@ Hi there! 👋 I am Hà Gia Huy, a final-year Electronics and Telecommunications
 
 Driven by analytical thinking and a strong technical foundation, I am pursuing an Intern/Fresher QC Engineer position. I aim to apply my knowledge of software-hardware interactions and meticulous attention to detail to ensure the quality of web, API, embedded, and IoT-related applications.
 
+### 🚀 Technical Skills
+#### 🛡️ Software Testing & QA
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-F39C12?style=for-the-badge&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+#### 🤖 Embedded Systems & IoT Testing
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E74C3C?style=for-the-badge&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-032347?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![Protocols](https://img.shields.io/badge/Protocols-UART_|_SPI_|_I2C_|_MQTT-2C3E50?style=for-the-badge)
+#### 💻 Programming Languages
+![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+### 📂 Featured Projects
+#### 🔍 [Manual Testing Practice - E-commerce Website](https://github.com/huymert/Manual-Testing-Practice-Ecommerce)
+- **What it is**: Comprehensive manual and API testing project for an e-commerce platform.
+- **Deliverables**: 📝 [Test Plan & 50+ Test Cases](link_to_your_google_sheet) | 🐛 [Jira Defect Reports](link_to_image_or_trello) | 🚀 [Postman API Collection](link_to_postman_folder)
+- **Key achievement**: Executed functional, UI, and regression testing across browsers; verified status codes & response bodies for 10+ core routes.
+#### 📱 [Staff Management Application](your_repo_link)
+- **What it is**: Android application built with Java, Firebase, and verified with structured testing.
+- **Key achievement**: Authored & executed 15+ manual test cases covering authentication, input constraints, and RBAC (Role-based access control).
 ---
 
-### 🚀 What I'm up to:
-
-* 🔭 **I'm currently working on:** Testing and optimizing a Staff Management Application built with Android Studio and Firebase, ensuring secure role-based access control (RBAC).
-* 👯 **I'm looking to collaborate on:** Open-source projects related to Software Testing (Manual/Automation), API testing, or IoT/Embedded system quality assurance.
-* 🌱 **I'm currently learning:** Advanced Automation Testing frameworks, broadening my API testing workflows with Postman, and mastering Agile/Scrum methodologies.
-* 💬 **Ask me about:** Manual Testing (Test Cases/Scenarios design), Bug Tracking (Jira/Trello), API testing, Android development, and working with microcontrollers like ESP32 or STM32.
-* ⚡ **Fun fact:** I love connecting the dots between hardware and software—which means I don't just find bugs in the code; I can also figure out if the wire is plugged into the wrong pin!
-
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Testing & QA** | Manual Testing, Test Case/Scenario Design, Bug Reporting, API Testing (Postman), Jira, Trello |
-| **Programming** | C/C++, Python, Java, SQL (Basic) |
-| **Embedded & IoT** | ESP32/ESP8266, STM32, Arduino, UART, SPI, I2C, MQTT |
-| **Tools & Platforms** | Git, GitHub, VS Code, Android Studio, Firebase |
-
----
 
 ### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-gia-huy-2b0897314)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahuyhgh@gmail.com)
 
-* 💼 **LinkedIn:** [Hà Gia Huy](https://linkedin.com/in/huy-gia-huy-2b0897314)
-* ✉️ **Email:** hahuyhgh@gmail.com
-* 📍 **Location:** Ho Chi Minh City, Vietnam
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="left">
