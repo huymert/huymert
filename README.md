@@ -34,8 +34,8 @@ Driven by analytical thinking and a strong technical foundation, I am pursuing a
 
 #### 🔍 [Manual Testing Practice - E-commerce Website](https://github.com/huymert/Manual-Testing-Practice-Ecommerce)
 - **What it is**: Comprehensive manual and API testing project for an e-commerce platform.
-- **Deliverables**: 📝 [Test Plan & 50+ Test Cases](link_to_your_google_sheet) | 🐛 [Jira Defect Reports](link_to_image_or_trello) | 🚀 [Postman API Collection](link_to_postman_folder)
-- **Key achievement**: Executed functional, UI, and regression testing across browsers; verified status codes & response bodies for 10+ core routes.
+- **Deliverables**: 📝 [Test Plan & Docs](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/test-artifacts) | 📊 [Google Sheets (52 Test Cases)](https://docs.google.com/spreadsheets/d/19zpmimS6btTzFb2tLk7lABqU07lK2KmzURq3aucCX_Q/edit?usp=sharing) | 🐛 [Jira Defect Reports](https://github.com/huymert/Manual-Testing-Practice-Ecommerce#1-active-kanban-board) | 🚀 [Postman API Collection](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/api-testing)
+- **Key achievement**: Executed functional, UI, and regression testing across browsers; verified status codes & response bodies for 14 core routes with 100% passing test assertions.
 
 ---
 
