@@ -42,15 +42,3 @@ Driven by analytical thinking and a strong technical foundation, I am pursuing a
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-gia-huy-2b0897314)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahuyhgh@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <!-- Thẻ Stats bên trái -->
-  <img src="https://github-stats-extended.vercel.app/api?username=huymert&show_icons=true&theme=tokyonight" alt="Huy's GitHub Stats" height="195" />
-  
-  <!-- Thẻ Ngôn ngữ bên phải -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=huymert&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195" />
-</p>
