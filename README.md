@@ -8,11 +8,12 @@ Driven by analytical thinking, methodical test design, and a strong technical fo
 
 ### 🚀 What I'm up to:
 
-* 🔭 **I'm currently working on:** Web UI Automation testing with Selenium & TestNG, and optimizing manual/API test frameworks.
+* 🔭 **I'm currently working on:** Web UI Automation testing with Selenium & Playwright (Python / Java), and optimizing manual & API test frameworks.
 * 🧪 **Testing Competencies:** Test Case & Scenario Design (Boundary Value Analysis, Equivalence Partitioning), Page Object Model (POM), API Contract Verification, Defect Lifecycle Tracking.
 * 🌱 **Continuously Learning:** Advanced Test Automation frameworks, automated CI/CD pipelines with GitHub Actions, and broadening API testing workflows.
-* 💬 **Ask me about:** Manual Testing, Automation Testing (Selenium, TestNG, POM), Bug Tracking (Jira / Trello), Postman API testing, and microcontrollers (ESP32, STM32).
+* 💬 **Ask me about:** Manual Testing, Automation Testing (Selenium, Playwright, TestNG, Pytest, POM), Bug Tracking (Jira), Postman API testing, and microcontrollers (ESP32, STM32).
 * ⚡ **Fun Fact:** I love connecting the dots between hardware and software—which means I don't just find bugs in the code; I can also figure out if the wire is plugged into the wrong pin!
+* 🏸 **Beyond Tech & Sports:** Big sports enthusiast! When I'm away from the keyboard and test suites, you'll find me on the court playing **badminton** 🏸 or **volleyball** 🏐 to stay energized, agile, and sharp!
 
 ---
 
@@ -20,18 +21,23 @@ Driven by analytical thinking, methodical test design, and a strong technical fo
 
 | Category | Technologies, Methodologies & Tools |
 | :--- | :--- |
-| **🛡️ Software Testing & QA** | Manual Testing, Web UI Automation (Selenium, TestNG), Test Case/Scenario Design (BVA, EP), Bug Reporting, Defect Lifecycle, API Testing (Postman), Allure Report, Jira, Trello |
+| **⚡ Test Automation** | Selenium WebDriver, Playwright, TestNG, Pytest, Allure Report, Page Object Model (POM) |
+| **🛡️ Manual & API Testing** | Manual Testing, Test Case/Scenario Design (BVA, EP), Defect Lifecycle Management, API Testing (Postman), Jira, SQL |
 | **🤖 Embedded & IoT QA** | ESP32/ESP8266, STM32, Arduino, UART, SPI, I2C, MQTT Protocol |
-| **💻 Programming & Scripting** | Java, Python, C/C++, SQL (Basic Queries) |
-| **🧰 Tools & Platforms** | Git, GitHub, VS Code, Android Studio, Maven, Firebase, Material Design |
+| **💻 Programming & Scripting** | Python, Java, C/C++, SQL (Basic Queries) |
+| **🧰 Tools & Platforms** | Git, GitHub, VS Code, Android Studio, Maven, Firebase |
 
-#### 🛡️ Testing & Management
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-F39C12?style=for-the-badge&logoColor=white)
+#### ⚡ Test Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Allure Report](https://img.shields.io/badge/Allure_Report-7A2B86?style=for-the-badge&logo=qameta&logoColor=white)
+
+#### 🛡️ Manual & API Testing
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-F39C12?style=for-the-badge&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 #### 🤖 Embedded & IoT Foundation
@@ -41,8 +47,8 @@ Driven by analytical thinking, methodical test design, and a strong technical fo
 ![Protocols](https://img.shields.io/badge/Protocols-UART_|_SPI_|_I2C_|_MQTT-2C3E50?style=for-the-badge)
 
 #### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
