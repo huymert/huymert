@@ -1,5 +1,5 @@
 # 🎯 Hà Gia Huy
-### Quality Assurance (QA) & Embedded Systems Engineer
+### Quality Assurance (QA) Engineer
 
 Hi there! 👋 I am **Hà Gia Huy**, a final-year Electronics and Telecommunications student at the **University of Science, VNU-HCM**, specializing in **Embedded Systems and IoT**.
 
