@@ -56,15 +56,6 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huymert&show_icons=true&theme=tokyonight&count_private=true" alt="Huy's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huymert&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
