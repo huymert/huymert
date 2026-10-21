@@ -1,46 +1,44 @@
-# 🎯 About Me
+# 🎯 Hà Gia Huy
+### Quality Assurance (QA) & Embedded Systems Engineer
 
 Hi there! 👋 I am **Hà Gia Huy**, a final-year Electronics and Telecommunications student at the **University of Science, VNU-HCM**, specializing in **Embedded Systems and IoT**.
 
-Coming from an engineering background with hands-on experience in Java, Python, SQL, and building Android applications, I chose **Quality Assurance (QA)** because I have a genuine passion for dissecting complex systems, thinking through edge cases, and ensuring software reliability before it ever reaches users. Having built applications myself gives me strong developer empathy—allowing me to analyze root causes faster, design deeper test scenarios (from UI and API down to hardware-software interactions), and write robust test automation.
+Coming from an engineering background with hands-on experience in Java, Python, SQL, and building Android applications, I chose **Quality Assurance (QA)** because I have a genuine passion for dissecting complex systems, edge cases, and ensuring software reliability before it reaches production. Having built software and worked with microcontrollers gives me strong developer empathy—allowing me to analyze root causes quickly, design rigorous test scenarios (Web, API, Mobile, Hardware-Software), and build scalable test automation frameworks.
+
+⚡ **Fun Fact:** I don't just hunt bugs in code; I can also tell if a wire is plugged into the wrong pin! Outside tech, I stay agile on the court playing **Badminton** 🏸 and **Volleyball** 🏐.
 
 ---
 
-### 🚀 What I'm up to:
+### 💼 Professional Experience & Industry Training
 
-* 🏢 **Industry Experience:** QA Trainee at **Maiventpoint** (Global tech company serving Singapore & US markets), testing the **MOE Portal** project under Agile/Scrum, collaborating cross-functionally with Dev and BA teams in an English-speaking environment.
-* 🧪 **Testing Competencies:** ISTQB-aligned test foundations (SDLC/STLC, static & dynamic testing, boundary value analysis, equivalence partitioning), defect management on Jira, and Non-Functional testing awareness (Performance: Load/Stress/Endurance; Security: Burp Suite & TryHackMe).
-* 🤖 **Web & Mobile Automation:** Building automated test frameworks with **Selenium (Java)**, **Playwright (Python)**, and **Appium (Android)**, integrated into **CI/CD pipelines (GitLab CI / GitHub Actions)**.
-* 💬 **Ask me about:** Manual Testing, Web/Mobile Automation (Selenium, Playwright, Appium, TestNG, Pytest), Bug Tracking (Jira), Postman API testing, and microcontrollers (ESP32, STM32).
-* ⚡ **Fun Fact:** I love connecting the dots between hardware and software—which means I don't just find bugs in the code; I can also figure out if the wire is plugged into the wrong pin!
-* 🏸 **Beyond Tech & Sports:** Big sports enthusiast! When I'm away from the keyboard and test suites, you'll find me on the court playing **badminton** 🏸 or **volleyball** 🏐 to stay energized, agile, and sharp!
-
----
-
-### 💼 Practical Experience & Industry Training
-
-* **QA Trainee — Maiventpoint** *(Global tech company serving Singapore & US markets)*
-  - Contributed to the **MOE Portal** project under Agile/Scrum, collaborating directly with Developer and Business Analyst (BA) teams.
-  - Practiced enterprise-grade test design, Jira defect lifecycle tracking, and automated testing with **Python & Playwright**.
-  - Mentored by senior QA leads in functional & non-functional testing: Performance testing (Load, Stress, Endurance) and basic security testing (Burp Suite Repeater, Injection testing).
-  - 100% English-first professional communication and real-world delivery workflows.
+* **QA Trainee — MaivenPoint (an AvePoint company)** *(Singapore & US Enterprise EdTech)*
+  - Actively testing the **Singapore Ministry of Education (MOE) Portal** project in an Agile/Scrum cross-functional team (Dev & BA) in an English-speaking environment.
+  - Designing enterprise-grade test cases, managing defect lifecycles on **Jira**, and building automated test scripts with **Python & Playwright**.
+  - Trained in Non-Functional QA: Performance Testing (Load, Stress, Endurance) and Web Security Basics (Burp Suite Repeater, Injection testing).
 
 * **Fullskill QA Engineering Graduate — Rikkei Academy**
-  - Completed intensive training aligned with **ISTQB standards**: SDLC, STLC, Test Planning, Static/Dynamic Testing, and Black-box design techniques.
-  - Engineered Web UI automation suites with **Selenium + TestNG + Allure Report**, and mobile automation for Android with **Appium**.
-  - Implemented Agile teamwork on **GitLab**, configuring automated **CI/CD test pipelines** executed on code push.
+  - Comprehensive training aligned with **ISTQB standards**: SDLC/STLC, Test Planning, Static/Dynamic Testing, and Black-box design techniques.
+  - Built Web UI automation suites with **Selenium + TestNG + Allure Report**, and mobile automation for Android with **Appium**.
+  - Implemented Agile teamwork on **GitLab**, configuring automated **CI/CD test pipelines** triggered on code push.
+
+---
+
+### 📂 Featured QA Projects
+
+#### 🤖 [SauceDemo Web UI Automation Framework](https://github.com/huymert/saucedemo-ui-automation)
+*Production-grade Web UI automation testing framework built with Page Object Model (POM).*
+- **Tech Stack**: Java 17 • Selenium WebDriver • TestNG • Maven • Allure Report • Page Object Model (POM)
+- **Highlights**: Thread-safe `DriverFactory` (Chrome/Firefox/Edge/Headless), custom `TestListener` with automated failure screenshots, multi-persona authentication, and end-to-end checkout validation.
+- **Deliverables**: 🛠️ [Source Code](https://github.com/huymert/saucedemo-ui-automation) • 📋 [Test Scenarios Matrix](https://github.com/huymert/saucedemo-ui-automation#-test-scenarios--coverage-matrix) • 📊 [Allure Report Setup](https://github.com/huymert/saucedemo-ui-automation#-test-reporting-allure-report)
+
+#### 🔍 [Manual Testing Practice - E-commerce Platform](https://github.com/huymert/Manual-Testing-Practice-Ecommerce)
+*Comprehensive manual & API testing validating end-to-end user journeys for an e-commerce platform.*
+- **QC Metrics**: **52+** Detailed Test Cases • **16+** Defects Tracked in Jira • **14** API Endpoints Verified (100% Pass)
+- **Deliverables**: 📝 [Test Plan & Documentation](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/test-artifacts) • 📊 [Google Sheets Test Suite (52 Cases)](https://docs.google.com/spreadsheets/d/19zpmimS6btTzFb2tLk7lABqU07lK2KmzURq3aucCX_Q/edit?usp=sharing) • 🐛 [Jira Defect Board](https://github.com/huymert/Manual-Testing-Practice-Ecommerce#1-active-kanban-board) • 🚀 [Postman Collection](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/api-testing)
 
 ---
 
 ### 🛠️ Technical Skills & QA Arsenal
-
-| Category | Technologies, Methodologies & Tools |
-| :--- | :--- |
-| **⚡ Test Automation & CI/CD** | Selenium WebDriver, Playwright, Appium (Mobile), TestNG, Pytest, Allure Report, GitLab CI, GitHub Actions, POM |
-| **🛡️ Manual & Functional QA** | ISTQB Standards (SDLC/STLC), Test Planning & Design (BVA, EP), Static/Dynamic Testing, API Testing (Postman), Jira |
-| **🔒 Non-Functional & Security** | Performance Testing (Load, Stress, Endurance), Web Security Basics (Burp Suite Repeater, Injection testing) |
-| **🤖 Embedded & IoT QA** | ESP32/ESP8266, STM32, Arduino, UART, SPI, I2C, MQTT Protocol |
-| **💻 Programming & Tools** | Python, Java, C/C++, SQL (Basic Queries), Git, GitLab, VS Code, Android Studio, Maven |
 
 #### ⚡ Test Automation & CI/CD
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -68,22 +66,6 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 📂 Featured QA Projects
-
-#### 🤖 [SauceDemo Web UI Automation Framework](https://github.com/huymert/saucedemo-ui-automation)
-*Production-grade Web UI automation testing framework built for the SauceDemo e-commerce platform.*
-- **Tech Stack**: Java 17 • Selenium WebDriver • TestNG • Maven • Allure Report • Page Object Model (POM)
-- **QC Highlights**: Designed thread-safe `DriverFactory` (Chrome/Firefox/Edge/Headless), custom `TestListener` with automated failure screenshot capture, multi-persona authentication, and E2E checkout validation.
-- **Deliverables**: 🛠️ [Source Code](https://github.com/huymert/saucedemo-ui-automation) • 📋 [Test Scenarios Matrix](https://github.com/huymert/saucedemo-ui-automation#-test-scenarios--coverage-matrix) • 📊 [Allure Report Setup](https://github.com/huymert/saucedemo-ui-automation#-test-reporting-allure-report)
-
-#### 🔍 [Manual Testing Practice - E-commerce Platform](https://github.com/huymert/Manual-Testing-Practice-Ecommerce)
-*Comprehensive manual & API testing project validating end-to-end user flows for an e-commerce system.*
-- **QC Metrics**: **52+** Detailed Test Cases • **16+** Defect Reports on Jira • **14** API Endpoints Verified (100% Pass)
-- **Deliverables**: 📝 [Test Plan & Documentation](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/test-artifacts) • 📊 [Google Sheets Test Suite (52 Cases)](https://docs.google.com/spreadsheets/d/19zpmimS6btTzFb2tLk7lABqU07lK2KmzURq3aucCX_Q/edit?usp=sharing) • 🐛 [Jira Defect Board](https://github.com/huymert/Manual-Testing-Practice-Ecommerce#1-active-kanban-board) • 🚀 [Postman Collection](https://github.com/huymert/Manual-Testing-Practice-Ecommerce/tree/main/api-testing)
-- **Key Achievement**: Executed functional, UI, and regression testing across major web browsers; verified status codes & response bodies for core routes with structured bug lifecycle tracking.
 
 ---
 
