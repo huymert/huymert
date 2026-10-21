@@ -8,12 +8,27 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 
 ### 🚀 What I'm up to:
 
-* 🔭 **I'm currently working on:** Web UI Automation testing with Selenium & Playwright (Python / Java), and optimizing manual & API test frameworks.
-* 🧪 **Testing Competencies:** Test Case & Scenario Design (Boundary Value Analysis, Equivalence Partitioning), Page Object Model (POM), API Contract Verification, Defect Lifecycle Tracking.
-* 🌱 **Continuously Learning:** Advanced Test Automation frameworks, automated CI/CD pipelines with GitHub Actions, and broadening API testing workflows.
-* 💬 **Ask me about:** Manual Testing, Automation Testing (Selenium, Playwright, TestNG, Pytest, POM), Bug Tracking (Jira), Postman API testing, and microcontrollers (ESP32, STM32).
+* 🏢 **Industry Experience:** QA Trainee at **Maiventpoint** (Global tech company serving Singapore & US markets), testing the **MOE Portal** project under Agile/Scrum, collaborating cross-functionally with Dev and BA teams in an English-speaking environment.
+* 🧪 **Testing Competencies:** ISTQB-aligned test foundations (SDLC/STLC, static & dynamic testing, boundary value analysis, equivalence partitioning), defect management on Jira, and Non-Functional testing awareness (Performance: Load/Stress/Endurance; Security: Burp Suite & TryHackMe).
+* 🤖 **Web & Mobile Automation:** Building automated test frameworks with **Selenium (Java)**, **Playwright (Python)**, and **Appium (Android)**, integrated into **CI/CD pipelines (GitLab CI / GitHub Actions)**.
+* 💬 **Ask me about:** Manual Testing, Web/Mobile Automation (Selenium, Playwright, Appium, TestNG, Pytest), Bug Tracking (Jira), Postman API testing, and microcontrollers (ESP32, STM32).
 * ⚡ **Fun Fact:** I love connecting the dots between hardware and software—which means I don't just find bugs in the code; I can also figure out if the wire is plugged into the wrong pin!
 * 🏸 **Beyond Tech & Sports:** Big sports enthusiast! When I'm away from the keyboard and test suites, you'll find me on the court playing **badminton** 🏸 or **volleyball** 🏐 to stay energized, agile, and sharp!
+
+---
+
+### 💼 Practical Experience & Industry Training
+
+* **QA Trainee — Maiventpoint** *(Global tech company serving Singapore & US markets)*
+  - Contributed to the **MOE Portal** project under Agile/Scrum, collaborating directly with Developer and Business Analyst (BA) teams.
+  - Practiced enterprise-grade test design, Jira defect lifecycle tracking, and automated testing with **Python & Playwright**.
+  - Mentored by senior QA leads in functional & non-functional testing: Performance testing (Load, Stress, Endurance) and basic security testing (Burp Suite Repeater, Injection testing).
+  - 100% English-first professional communication and real-world delivery workflows.
+
+* **Fullskill QA Engineering Graduate — Rikkei Academy**
+  - Completed intensive training aligned with **ISTQB standards**: SDLC, STLC, Test Planning, Static/Dynamic Testing, and Black-box design techniques.
+  - Engineered Web UI automation suites with **Selenium + TestNG + Allure Report**, and mobile automation for Android with **Appium**.
+  - Implemented Agile teamwork on **GitLab**, configuring automated **CI/CD test pipelines** executed on code push.
 
 ---
 
@@ -21,28 +36,31 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 
 | Category | Technologies, Methodologies & Tools |
 | :--- | :--- |
-| **⚡ Test Automation** | Selenium WebDriver, Playwright, TestNG, Pytest, Allure Report, Page Object Model (POM) |
-| **🛡️ Manual & API Testing** | Manual Testing, Test Case/Scenario Design (BVA, EP), Defect Lifecycle Management, API Testing (Postman), Jira, SQL |
+| **⚡ Test Automation & CI/CD** | Selenium WebDriver, Playwright, Appium (Mobile), TestNG, Pytest, Allure Report, GitLab CI, GitHub Actions, POM |
+| **🛡️ Manual & Functional QA** | ISTQB Standards (SDLC/STLC), Test Planning & Design (BVA, EP), Static/Dynamic Testing, API Testing (Postman), Jira |
+| **🔒 Non-Functional & Security** | Performance Testing (Load, Stress, Endurance), Web Security Basics (Burp Suite Repeater, Injection testing) |
 | **🤖 Embedded & IoT QA** | ESP32/ESP8266, STM32, Arduino, UART, SPI, I2C, MQTT Protocol |
-| **💻 Programming & Scripting** | Python, Java, C/C++, SQL (Basic Queries) |
-| **🧰 Tools & Platforms** | Git, GitHub, VS Code, Android Studio, Maven, Firebase |
+| **💻 Programming & Tools** | Python, Java, C/C++, SQL (Basic Queries), Git, GitLab, VS Code, Android Studio, Maven |
 
-#### ⚡ Test Automation
+#### ⚡ Test Automation & CI/CD
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure_Report-7A2B86?style=for-the-badge&logo=qameta&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### 🛡️ Manual & API Testing
+#### 🛡️ Manual Testing & Quality Management
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-F39C12?style=for-the-badge&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 #### 🤖 Embedded & IoT Foundation
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E74C3C?style=for-the-badge&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E74C3C?style=for-the-badge&logo=ESP32&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-032347?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Protocols](https://img.shields.io/badge/Protocols-UART_|_SPI_|_I2C_|_MQTT-2C3E50?style=for-the-badge)
 
