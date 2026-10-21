@@ -9,20 +9,6 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 
 ---
 
-### 💼 Professional Experience & Industry Training
-
-* **QA Trainee — MaivenPoint (an AvePoint company)** *(Singapore & US Enterprise EdTech)*
-  - Actively testing the **Singapore Ministry of Education (MOE) Portal** project in an Agile/Scrum cross-functional team (Dev & BA) in an English-speaking environment.
-  - Designing enterprise-grade test cases, managing defect lifecycles on **Jira**, and building automated test scripts with **Python & Playwright**.
-  - Trained in Non-Functional QA: Performance Testing (Load, Stress, Endurance) and Web Security Basics (Burp Suite Repeater, Injection testing).
-
-* **Fullskill QA Engineering Graduate — Rikkei Academy**
-  - Comprehensive training aligned with **ISTQB standards**: SDLC/STLC, Test Planning, Static/Dynamic Testing, and Black-box design techniques.
-  - Built Web UI automation suites with **Selenium + TestNG + Allure Report**, and mobile automation for Android with **Appium**.
-  - Implemented Agile teamwork on **GitLab**, configuring automated **CI/CD test pipelines** triggered on code push.
-
----
-
 ### 📂 Featured QA Projects
 
 #### 🤖 [SauceDemo Web UI Automation Framework](https://github.com/huymert/saucedemo-ui-automation)
@@ -40,10 +26,11 @@ Coming from an engineering background with hands-on experience in Java, Python, 
 
 ### 🛠️ Technical Skills & QA Arsenal
 
-#### ⚡ Test Automation & CI/CD
+#### ⚡ Test Automation, CI/CD & Performance
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure_Report-7A2B86?style=for-the-badge&logo=qameta&logoColor=white)
