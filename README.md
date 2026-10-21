@@ -2,7 +2,7 @@
 
 Hi there! 👋 I am **Hà Gia Huy**, a final-year Electronics and Telecommunications student at the **University of Science, VNU-HCM**, specializing in **Embedded Systems and IoT**.
 
-Driven by analytical thinking, methodical test design, and a strong technical foundation, I am pursuing an **Intern / Fresher QC Engineer** position. I aim to apply my knowledge of software-hardware interactions, boundary analysis, and meticulous attention to detail to ensure the highest quality for Web, API, Mobile, and Embedded/IoT products.
+Coming from an engineering background with hands-on experience in Java, Python, SQL, and building Android applications, I chose **Quality Assurance (QA)** because I have a genuine passion for dissecting complex systems, thinking through edge cases, and ensuring software reliability before it ever reaches users. Having built applications myself gives me strong developer empathy—allowing me to analyze root causes faster, design deeper test scenarios (from UI and API down to hardware-software interactions), and write robust test automation.
 
 ---
 
@@ -86,6 +86,6 @@ Driven by analytical thinking, methodical test design, and a strong technical fo
 [![Gmail](https://img.shields.io/badge/Gmail-hahuyhgh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahuyhgh@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_Vietnam-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ho+Chi+Minh+City,+Vietnam)
 
-<sub>Designed with attention to quality & precision • Open to Intern / Fresher QC Opportunities</sub>
+<sub>Designed with attention to quality & precision • Open to QA/QC Engineering Opportunities</sub>
 
 </div>
